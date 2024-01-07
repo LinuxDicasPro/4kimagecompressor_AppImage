@@ -1,4 +1,4 @@
-# 4K Image Compressor Plus AppImage
+# 4K Image Compressor AppImage
 
 Para gerar o AppImage do Programa em seu PC sem precisar baixar absolutamente nada, execute esse comando:
 ```
